@@ -1,0 +1,30 @@
+# Contact details
+YT_NAME=YT: @josephelb
+SOCIAL_M=GitHub: icekid480
+LOCATION=Zimbabwe, harare 
+
+# Creator details
+OWNER_NUMBER=263776612985
+OWNER_NAME=Josephel bokosha 
+BOT_NAME=smokey 
+SESSION_ID={"noiseKey":{"private":{"type":"Buffer","data":"eIPmxBwH4DxjqB5l8vpOvgIYC2Fd5ycnRiQfYHmTPXg="},"public":{"type":"Buffer","data":"HuMDzWIhhonV57X+ZDXEps0yte5OZ6xRiwH12KQvdRA="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"MDPbVsmrQSDE3Q4m5A6s/onTdPzj5YB2mZ1ku5U/il4="},"public":{"type":"Buffer","data":"pL2ThzduypbirDDjyqo3BVQNSNk+direPYfRdugsvTk="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"YInMG6UjYm7MPUhFmWfVd5Q5pbkrXelWAtdynw42mUk="},"public":{"type":"Buffer","data":"N0ekXlqirMZidNmeVbSvyVefUSXZmfvEJwWRVGOSO3A="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"IBSkgdKTT+7DdRg+UrH2y1UkPXW7phFPm+pmB+C0YF4="},"public":{"type":"Buffer","data":"kHnKWpSwEjSEFRhBpiUkt5efzg/Ppz0YdUjvQ+L26l4="}},"signature":{"type":"Buffer","data":"uZuoJiAlysNsq3/a/EO81t59Ao8M9iuEcdq+6NP2cYwQTDkoyFhcO/aaikd7A8A5jBRNF1FBB9bYUR46p/GWBA=="},"keyId":1},"registrationId":159,"advSecretKey":"oXXYMqmrkLUB7PpAvhcdtr2bV6wwrnWmh5VZRQoWjDg=","processedHistoryMessages":[],"nextPreKeyId":32,"firstUnuploadedPreKeyId":32,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"registered":true,"pairingCode":"WC6F2DU9","me":{"id":"263776612985:24@s.whatsapp.net","name":"smokedhadha","lid":"253365053313159:24@lid"},"account":{"details":"COTztLkBELLi/9IGGAIgACgA","accountSignatureKey":"9stZ6sB516CS+fmwQfWLvFPyb4PeDV9cyhh46Ad3/DY=","accountSignature":"p+T43yXJ0puYpLMNaW45ohitUOCfEy9dpP1oEdutULBlrv4EKLslYXaGOpL3UxuSRi+QnXZxl480Nk9DUxjuCQ==","deviceSignature":"6GRE8ChbR8qVgSWmFmruIGBC/VwLk5giR23sezVTl16uSDowtZLNwOB2i6J3xY3XedLeH9OQgkL6D9AHty7ABQ=="},"signalIdentities":[{"identifier":{"name":"263776612985:24@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"BfbLWerAedegkvn5sEH1i7xT8m+D3g1fXMoYeOgHd/w2"}}],"platform":"smba","routingInfo":{"type":"Buffer","data":"CBIICAgC"},"lastAccountSyncTimestamp":1784672573,"myAppStateKeyId":"AAAAAIS4"}
+
+# Default settings
+PREFIX=.
+AUTO_RECORDING=false
+AUTO_TYPING=false
+AUTO_RECORD_TYPE=false
+AUTO_READ=false
+AUTO_BIO=false
+AUTO_VIEW_STATUS=false
+WELCOME=true
+AUTO_REACT=false
+AUTO_LIKE_STATUS=false
+
+# Sticker details
+PACKNAME=Sticker By
+AUTHOR=EliteProTech
+
+# Default settings 2
+WM=Youtube @EliteProTechs
+LINK=https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g
